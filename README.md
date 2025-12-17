@@ -1,1 +1,9 @@
-# nd1-learning-journey-2025
+- IoT Concepts
+  
+- Embedded Systems
+  
+- Communication & Networking
+  
+- Software & Programming
+  
+- Future Works/Projects
