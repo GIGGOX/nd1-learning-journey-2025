@@ -16,7 +16,7 @@
    
    
 
-![](C:\nd1-learning-journey-2025\images\iot.jpg)
+![](images\iot.jpg)
 
 ## 2. Embedded Systems
 
