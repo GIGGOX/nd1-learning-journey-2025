@@ -92,17 +92,17 @@
 
 ## 4. Software & Programming
 
-     [KiCad](https://www.kicad.org/)  เป็นซอฟแวร์ออกแบบ PCB ฟรี
+     [KiCad](https://www.kicad.org/)  เป็นซอฟแวร์ออกแบบ PCB ฟรีแวร์
 
-     [EasyEDA](https://easyeda.com/)  เป็นซอฟแวร์ออกแบบ PCB ฟรี
+     [EasyEDA](https://easyeda.com/)  เป็นซอฟแวร์ออกแบบ PCB ฟรีแวร์
 
-     [draw.io](https://www.drawio.com/)  เป็นซอฟแวร์วาดแผนผังต่างๆ
+     [draw.io](https://www.drawio.com/)  เป็นซอฟแวร์วาดแผนผังต่างๆ ฟรีแวร์
 
-     [Visual Studio Code](https://code.visualstudio.com/)  เป็นซอฟแวร์ที่ใช้ในการเขียนและแก้ไขโค๊ดต่าง ๆ
+     [Visual Studio Code](https://code.visualstudio.com/)  เป็นซอฟแวร์ที่ใช้ในการเขียนและแก้ไขโค๊ดต่าง ๆ ฟรีแวร์
 
-     [Tinkercad](https://www.tinkercad.com/)  เป็นซอฟแวร์จำลองการทำงานของวงจรอิเล็กทรอนิกส์
+     [Tinkercad](https://www.tinkercad.com/)  เป็นซอฟแวร์จำลองการทำงานของวงจรอิเล็กทรอนิกส์ ฟรีแวร์
 
-     [Docker](https://www.docker.com/)  คือแพลตฟอร์มที่ช่วยให้เราสามารถจำลองสภาพแวดล้อมสำหรับรันแอปพลิเคชันได้
+     [Docker](https://www.docker.com/)  คือแพลตฟอร์มที่ช่วยให้เราสามารถจำลองสภาพแวดล้อมสำหรับรันแอปพลิเคชันได้ ฟรีแวร์
 
 ## 5. Future Works/Projects
 
