@@ -110,7 +110,6 @@
 
 ## 5. Future Works/Projects
 
-# 
 
 ### ระบบรดน้ำต้นไม้อัจฉริยะ (Smart Irrigation System)
 
