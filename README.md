@@ -102,8 +102,6 @@
 
     - [Tinkercad](https://www.tinkercad.com/)  เป็นซอฟแวร์จำลองการทำงานของวงจรอิเล็กทรอนิกส์
 
-    - [Docker](https://www.docker.com/) คือแพลตฟอร์มที่ช่วยให้เราสามารถจำลองสภาพแวดล้อมสำหรับรันแอปพลิเคชันได้ในรูปแบบที่เรียกว่า **Container** (คอนเทนเนอร์)
-
 ## 5. Future Works/Projects
 
 ### ระบบรดน้ำต้นไม้อัจฉริยะ (Smart Irrigation System)
