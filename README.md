@@ -16,7 +16,7 @@
    
    
 
-![](images\iot.jpg)
+![รูป](images/iot.jpg)
 
 ## 2. Embedded Systems
 
@@ -40,4 +40,3 @@
 
 ## 5. Future Works/Projects
 
-ออกแบบ
